@@ -8,3 +8,5 @@ Given a sequence of words, we can predict the probabilities of all other words a
 The word with the highest probability, given the sequence, can be suggested as the most probable "next word" to the user.
 
 Bigram, trigram implementation
+
+Perplexity calculation with sample hallucination
